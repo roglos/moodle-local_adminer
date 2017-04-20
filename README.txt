@@ -1,3 +1,5 @@
+RO UoG local fork of adminer - no changes, simply allows install direct from github
+
 Moodle Adminer is based on the great tool adminer (www.adminer.org).
 The main advantage of this plugin is, it can handle different types of database.
 So it works with MySQL, PostgreSQL, Oracle and MSSQL.
